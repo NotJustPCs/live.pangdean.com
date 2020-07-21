@@ -1,0 +1,4 @@
+<?php
+  $streamtitle = '';
+  $streamlink = '';
+?>
