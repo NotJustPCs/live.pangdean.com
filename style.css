@@ -1,7 +1,14 @@
 body {
-  background-color: #738775;
+  background-color: #738775 !important;
 }
 
-.logo .waittext {
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.waittext {
   text-align: center;
 }
